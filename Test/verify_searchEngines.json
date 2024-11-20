@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Google",
+    "id": 1,
+    "owner": "Google",
+    "launchYear": 1997,
+    "description": "The most widely used search engine globally, Google is known for its fast, accurate, and highly personalized search results. It uses sophisticated algorithms, including machine learning and AI, to refine search results based on user behavior, location, and preferences. Google also offers a wide range of services like Gmail, Google Maps, and YouTube."
+  },
+  {
+    "title": "Microsoft Bing",
+    "id": 2,
+    "owner": "Microsoft",
+    "launchYear": 2009,
+    "description": "Bing is Microsoft's search engine, known for its attractive visual design and integration with Microsoft’s other products, such as Office and Windows. It offers features like image search, video previews, and rewards for using the service. Bing also provides an AI-powered experience and often integrates with Cortana, Microsoft’s digital assistant."
+  },
+  {
+    "title": "DuckDuckGo",
+    "id": 3,
+    "owner": "Duck Duck Go Inc",
+    "launchYear": 2008,
+    "description": "A privacy-focused search engine that does not track or store personal information about its users. DuckDuckGo emphasizes user anonymity and displays results from various sources, including its own web crawler and other search engines, without personalized tracking."
+  },
+  {
+    "title": "Google Scholar",
+    "id": 4,
+    "owner": "Google",
+    "launchYear": 2004,
+    "description": "Google Scholar is a freely accessible search engine that specifically indexes scholarly articles, research papers, theses, books, and academic journals across various disciplines. It helps researchers, students, and academics find scholarly literature from a wide range of sources, including universities, publishers, and professional organizations. Google Scholar also provides citation metrics, allowing users to track how often a publication has been cited by others in the academic community."
+  }
+]
